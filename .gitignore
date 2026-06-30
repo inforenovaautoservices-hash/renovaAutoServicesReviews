@@ -1,0 +1,12 @@
+# ignore python script(s)
+*.py
+
+# optional: ignore compiled files
+__pycache__/
+*.pyc
+
+# ignore everything else if needed (optional safety)
+# *
+# !README.md
+# !google_reviews.json
+# !.gitignore
